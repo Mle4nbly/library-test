@@ -1,0 +1,19 @@
+{
+  "name": "@mle4nbly/create-library",
+  "version": "1.0.0",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mle4nbly/library-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mle4nbly/library-test/issues"
+  },
+  "homepage": "https://github.com/Mle4nbly/library-test#readme",
+  "description": ""
+}
